@@ -1,0 +1,10 @@
+{
+  "name": "examples",
+  "description": "MetaApi example scripts",
+  "version": "1.0.0",
+  "dependencies": {
+    "global-tunnel-ng": "^2.7.1",
+    "metaapi.cloud-sdk": "^20.2.0"
+  },
+  "scripts": {}
+}
